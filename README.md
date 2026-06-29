@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0316-remove-duplicate-letters) |
 | [0500-keyboard-row](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0500-keyboard-row) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Enumeration
@@ -51,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0180-consecutive-numbers) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0316-remove-duplicate-letters) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
