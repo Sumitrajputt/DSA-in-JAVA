@@ -47,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0164-maximum-gap) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
