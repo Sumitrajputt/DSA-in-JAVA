@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0316-remove-duplicate-letters) |
 | [0500-keyboard-row](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0500-keyboard-row) |
+| [0551-student-attendance-record-i](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0551-student-attendance-record-i) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Enumeration
 |  |
