@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0164-maximum-gap) |
+| [0300-longest-increasing-subsequence](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0500-keyboard-row) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -114,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0300-longest-increasing-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
