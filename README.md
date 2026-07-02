@@ -78,21 +78,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Two Pointers
