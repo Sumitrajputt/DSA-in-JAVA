@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0263-ugly-number) |
 | [0398-random-pick-index](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0398-random-pick-index) |
 ## Reservoir Sampling
 |  |
