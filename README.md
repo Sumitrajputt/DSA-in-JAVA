@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0164-maximum-gap) |
 | [0300-longest-increasing-subsequence](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
