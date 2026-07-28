@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0164-maximum-gap) |
 | [0300-longest-increasing-subsequence](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0300-longest-increasing-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0500-keyboard-row) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0316-remove-duplicate-letters) |
+| [0474-ones-and-zeroes](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0474-ones-and-zeroes) |
 | [0500-keyboard-row](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0500-keyboard-row) |
 | [0551-student-attendance-record-i](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0300-longest-increasing-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0474-ones-and-zeroes) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
