@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0661-image-smoother](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0661-image-smoother) |
+| [1140-stone-game-ii](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1301-number-of-paths-with-max-score) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0263-ugly-number](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0263-ugly-number) |
 | [0398-random-pick-index](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0398-random-pick-index) |
+| [1140-stone-game-ii](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1140-stone-game-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0474-ones-and-zeroes) |
+| [1140-stone-game-ii](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1140-stone-game-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Number Theory
 |  |
@@ -219,4 +223,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
