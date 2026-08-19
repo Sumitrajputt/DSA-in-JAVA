@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0832-flipping-an-image) |
 | [0833-find-and-replace-in-string](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0833-find-and-replace-in-string) |
+| [0839-similar-string-groups](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0839-similar-string-groups) |
 | [1140-stone-game-ii](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1288-remove-covered-intervals) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0833-find-and-replace-in-string](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0833-find-and-replace-in-string) |
+| [0839-similar-string-groups](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0839-similar-string-groups) |
 | [1331-rank-transform-of-an-array](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1386-cinema-seat-allocation) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0696-count-binary-substrings](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0696-count-binary-substrings) |
 | [0833-find-and-replace-in-string](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0833-find-and-replace-in-string) |
+| [0839-similar-string-groups](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0839-similar-string-groups) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0839-similar-string-groups](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0839-similar-string-groups) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0839-similar-string-groups](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0839-similar-string-groups) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -210,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0839-similar-string-groups](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0839-similar-string-groups) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3532-path-existence-queries-in-a-graph-i) |
