@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0661-image-smoother](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0661-image-smoother) |
+| [0832-flipping-an-image](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0832-flipping-an-image) |
 | [1140-stone-game-ii](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1288-remove-covered-intervals) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0696-count-binary-substrings) |
+| [0832-flipping-an-image](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0832-flipping-an-image) |
 ## Graph Theory
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0661-image-smoother](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0661-image-smoother) |
+| [0832-flipping-an-image](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0495-teemo-attacking) |
+| [0832-flipping-an-image](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1260-shift-2d-grid) |
 ## Prefix Sum
 |  |
@@ -225,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Counting Sort
