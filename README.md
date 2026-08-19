@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1386-cinema-seat-allocation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0263-ugly-number) |
 | [0398-random-pick-index](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0398-random-pick-index) |
 | [1140-stone-game-ii](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1140-stone-game-ii) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1301-number-of-paths-with-max-score) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0495-teemo-attacking) |
 | [0832-flipping-an-image](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1260-shift-2d-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Prefix Sum
 |  |
 | ------- |
