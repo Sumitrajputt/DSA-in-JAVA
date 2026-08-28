@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Enumeration
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0696-count-binary-substrings](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0696-count-binary-substrings) |
 | [0832-flipping-an-image](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0832-flipping-an-image) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Graph Theory
 |  |
 | ------- |
