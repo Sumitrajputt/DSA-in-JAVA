@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1386-cinema-seat-allocation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-find-and-replace-in-string](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0833-find-and-replace-in-string) |
 | [1288-remove-covered-intervals](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1331-rank-transform-of-an-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bucket Sort
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0839-similar-string-groups) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Simulation
 |  |
