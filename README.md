@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0398-random-pick-index) |
+| [0451-sort-characters-by-frequency](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0697-degree-of-an-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0316-remove-duplicate-letters) |
 | [0434-number-of-segments-in-a-string](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0434-number-of-segments-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0474-ones-and-zeroes) |
 | [0500-keyboard-row](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0500-keyboard-row) |
 | [0551-student-attendance-record-i](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0551-student-attendance-record-i) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0164-maximum-gap) |
 | [0324-wiggle-sort-ii](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0324-wiggle-sort-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0833-find-and-replace-in-string](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0833-find-and-replace-in-string) |
 | [1288-remove-covered-intervals](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1331-rank-transform-of-an-array) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0164-maximum-gap) |
+| [0451-sort-characters-by-frequency](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0451-sort-characters-by-frequency) |
 ## Radix Sort
 |  |
 | ------- |
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3620-network-recovery-pathways) |
 ## Matrix
@@ -271,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
 |  |
