@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3620-network-recovery-pathways) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Reservoir Sampling
 |  |
 | ------- |
