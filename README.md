@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1386-cinema-seat-allocation) |
+| [1496-path-crossing](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1496-path-crossing) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-find-and-replace-in-string](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0833-find-and-replace-in-string) |
 | [0839-similar-string-groups](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0839-similar-string-groups) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1496-path-crossing](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1496-path-crossing) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/3517-smallest-palindromic-rearrangement-i) |
