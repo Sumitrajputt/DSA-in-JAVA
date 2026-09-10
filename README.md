@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0897-increasing-order-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0839-similar-string-groups) |
 | [0897-increasing-order-search-tree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0897-increasing-order-search-tree) |
 | [1034-coloring-a-border](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/1034-coloring-a-border) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0897-increasing-order-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
