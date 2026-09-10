@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0173-binary-search-tree-iterator) |
 | [0316-remove-duplicate-letters](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0316-remove-duplicate-letters) |
 | [0897-increasing-order-search-tree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0897-increasing-order-search-tree) |
 ## Greedy
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0099-recover-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0099-recover-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0099-recover-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0173-binary-search-tree-iterator) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0897-increasing-order-search-tree) |
 ## Union-Find
@@ -349,4 +353,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0980-unique-paths-iii) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Sumitrajputt/DSA-in-JAVA/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
